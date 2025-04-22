@@ -36,7 +36,7 @@ This project demonstrates a clean, independent, and integrated DevOps workflow h
 
 ## 🛠️ Technologies & Tools
 
-- Java 21  
+- Java 17
 - Spring Boot  
 - MySQL 8  
 - Docker  
@@ -89,7 +89,7 @@ To get the accessible URL:
 
 - **URL:** jdbc:mysql://mysql:3306/mydb  
 - **Username:** root  
-- **Password:** Nmnmnm6@@
+- **Password:** root404
 
 ------------------------------------------------------------
 
